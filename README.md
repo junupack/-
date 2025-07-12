@@ -11,4 +11,4 @@
 3. 10분 뒤 도배 제한 해제 안내 표시
 
 ## 만든 사람
-- A1risp (https://playentry.org/profile/...)
+- A1risp https://playentry.org/profile/678091bac28305490c81515b?sort=created&term=all&isOpen=all
